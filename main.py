@@ -10,7 +10,7 @@ def show_popup():
   question = messagebox.askquestion("title here", "message here") # asks a yes/no question
   if question == 'yes':
     # if the question answer is yes
-    print("clicked yes')
+    print("clicked yes")
   else:
     # if the question answer was no
     print("clicked no")
